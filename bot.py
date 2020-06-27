@@ -1,6 +1,5 @@
 import os
 import pytube
-import config
 from moviepy.editor import *
 from telethon import TelegramClient, events, Button
 import logging
